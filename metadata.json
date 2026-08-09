@@ -1,0 +1,6 @@
+{
+  "name": "Premi Sehjal Official",
+  "description": "Official Premi Sehjal app for subscribers, video views growth, campaigns, and channel updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
